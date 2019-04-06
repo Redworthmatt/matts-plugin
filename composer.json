@@ -1,0 +1,17 @@
+{
+    "name": "matth/matts-plugin",
+    "description": "My First Plugin for my Dissertation",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Matt",
+            "email": "matthewjameshowarth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
